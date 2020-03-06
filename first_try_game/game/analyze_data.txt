@@ -1,0 +1,2 @@
+frame rate:49.067713,number of enemies:25,bullets:28,sparks:0    
+frame rate:54.495913,number of enemies:6,bullets:37,sparks:411    

@@ -1,0 +1,4 @@
+radius=32 
+power=4.0
+fiction=0.5 
+gravity=0.2 

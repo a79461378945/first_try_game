@@ -1,0 +1,17 @@
+16
+turn=1 type=0 x=10 y=10 number=5
+turn=2 type=0 x=10 y=10 number=5
+turn=3 type=0 x=10 y=10 number=5
+turn=4 type=0 x=10 y=10 number=5
+turn=5 type=0 x=10 y=10 number=5
+turn=11 type=1 x=-10 y=10 number=5
+turn=12 type=1 x=-10 y=10 number=5
+turn=13 type=1 x=-10 y=10 number=5
+turn=14 type=1 x=-10 y=10 number=5
+turn=15 type=1 x=-10 y=10 number=5
+turn=21 type=2 x=-10 y=-10 number=5
+turn=22 type=2 x=-10 y=-10 number=5
+turn=23 type=2 x=-10 y=-10 number=5
+turn=24 type=2 x=-10 y=-10 number=5
+turn=25 type=2 x=-10 y=-10 number=5
+turn=31 type=0 x=10 y=-10 number=5

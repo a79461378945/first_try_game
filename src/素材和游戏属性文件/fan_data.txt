@@ -1,0 +1,33 @@
+number of type:3
+type name:BLUE
+picture name:greensquare.bmp 
+radius= 32
+power= 0.25
+fiction= 0.05
+repulsive= 500.0
+gravity= 1.0
+follow_rate= 1.2
+dodge_others_rate= 1.4
+dodge_bullets_rate= 1.0
+
+type name:GREEN
+picture name:bluediamond.bmp 
+radius= 32
+power= 0.25
+fiction= 0.05
+repulsive= 500.0
+gravity= 1.0
+follow_rate= 0.5
+dodge_others_rate= 1.5
+dodge_bullets_rate= 1.4
+
+type name:RED
+picture name:pinwheel.bmp 
+radius= 32
+power= 0.25
+fiction= 0.05
+repulsive= 500.0
+gravity= 1.0
+follow_rate= 1.0
+dodge_others_rate= 1.1
+dodge_bullets_rate= 1.3

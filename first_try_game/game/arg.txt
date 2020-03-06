@@ -1,0 +1,6 @@
+WIDTH=1920 
+HEIGHT=1080 
+CSIZE=40 
+BSIZE=20 
+fire_turn=4 
+fan_turn=20
